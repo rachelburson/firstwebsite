@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+body{
+    background-color:honeydew;
+    text-align: center;
+}
+.profile{
+    border-radius: 40%;
+    border: solid;
+}
+p{
+    font-size: larger;
+}
